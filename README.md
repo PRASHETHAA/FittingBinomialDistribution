@@ -26,9 +26,10 @@ The following are criteria for a frequency distribution to be a binomial distrib
 ![image](https://user-images.githubusercontent.com/104613195/166250867-46571ef5-f77b-4658-86ce-1c60c52fdfb1.png)
 
 # Program
-# Developed by : PRASHETHAA R
+# Developed by : 
 # Register Number:212220230036
-
+# Name:PRASHETHAA R
+```
 import numpy as np
 import math
 import scipy.stats
@@ -58,8 +59,8 @@ if cal_chi2_square<tab_chi2_square:
     print("The given data can be fitted in binomial distribution at 1% LOS")
 else:
     print("The given data cannot be fitted in binomial distribution at 1% LOS")
+```
+# Output :
 
-
-
-# Results and Output : 
-
+# Results : 
+Thus, fitting poisson distribution for the given frequencey distribution is verified.
