@@ -63,4 +63,4 @@ else:
 # Output :
 
 # Results : 
-Thus, fitting poisson distribution for the given frequencey distribution is verified.
+Thus, fitting Binomial distribution for the given frequencey distribution is verified.
