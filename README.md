@@ -61,6 +61,7 @@ else:
     print("The given data cannot be fitted in binomial distribution at 1% LOS")
 ```
 # Output :
+![probexp1](https://user-images.githubusercontent.com/75234942/167263572-685b3992-3f90-4ba0-9201-6e3f89aa167a.png)
 
 # Results : 
 Thus, fitting Binomial distribution for the given frequencey distribution is verified.
